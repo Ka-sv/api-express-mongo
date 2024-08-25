@@ -28,7 +28,7 @@ Clone o repositório:
 
 bash
 Copiar código
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone git@github.com:Ka-sv/api-express-mongo.git
 Navegue até o diretório do projeto:
 
 bash
